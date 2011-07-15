@@ -1,0 +1,52 @@
+Contract bridge:
+http://en.wikipedia.org/wiki/Contract_bridge
+
+Bridge is quite complicated compared to other card games 
+and this discourages most of the people who might consider it as a hobby.
+
+This project aims to introduce anyone new to the game of bridge within a few seconds.
+
+Scenario: 
+
+Our visitor, lets call her Vangel, enters our web page.
+There she is sitting south as a declarer of a 3 No Trump contract
+watching the 13 cards she has been dealt with.
+The Opening Lead, the Ace of Spades is played by the defender on her left; sitting West.
+Then, Dummy sitting North, automatically lays down his 13 cards to public view.
+All Vangel has to do is choose (by clicking) one of Dummy's 3 spades (7, 5, 3) to continue with the game.
+Then the other defender sitting east plays the 4 of spades.
+Now Vangel has to play a spade from her hand (Queen, Jack, Ten, 9).
+So Trick 1 is won by West which now starts the second trick with the 2 of Spades.
+Again Vangel, plays another spade from Dummy, 
+East follows with the 8 and Vangel wins this trick with any of her -higher than the 8- spades (Queen, Jack, Ten, 9).
+Then its Vangel's turn to play any card from her hand to start trick 3.
+
+In this - less than a minute - experience the user learns the following:
+- the flow of the play is clockwise (gets a note when he clicks on his cards instead of Dummy's after West's play).
+- you must follow suit (gets a note when he clicked on a Heart, Diamond or Club, instead of a Spade, that started the trick)
+- The Ranking of cards is higher to lower (Ace, King, Queen, Jack, Ten, 9, down to 2)
+- the player who wins the trick will lead the next trick.
+
+Helpful notes are displayed as reactions, to any illegal -by the rules of the game- move.
+Additionally small hints and tips are displayed discretely around the page.
+
+
+If this scenario sounded to complicated and you skipped reading everything after the reference to the Opening Lead,
+imagine how easier this would all sound with a visual and interactive representation.
+
+There are many articles, books, software and online communities
+aimed to attract a begginer wanting to learn bridge. 
+All of them though start with the rules, 
+requiring effort, money, time (or even downloads and logins) that will eventually pay off 
+if -ofcourse- our begginer sticks around long enough.
+
+What this project aims to accomplish is to lure the candidate bridge player, 
+letting him start his bridge learing experience with just that what all games are made for:
+
+   P L A Y
+   
+All other rules and parts of the game can patiently wait to being learned as Vangel gets more into it.
+Even if she never made it to trick 3, she still might be telling her friends that she once played Bridge!
+
+A random quote found on the internet regarding Contract Bridge:
+"It looked so complicated to me that I didn't do more than glance at it! I think you have to read an entire rule book just to play the game!"
