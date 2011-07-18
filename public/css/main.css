@@ -1,0 +1,109 @@
+html, body  {
+   padding: 0px;
+   margin: 0px;
+   font-family:  Verdana;
+   background-color: #0C7541;
+   /*height:100%;  this is the key! */
+}
+
+#south  {	
+	position: absolute;
+    top:30px;
+    left:80px;
+    width:480px;
+    height:200px;	
+}
+
+.dock img {
+	height: 150px;
+	margin: 0 30px;
+	background-color: #000000;	
+}
+
+.player-info{
+	height: 50px;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.position {
+	float:left;
+	width:30px;
+	color: #ADE5ED;
+	background-color: #10120D;		
+}
+
+.name{
+	float:left;
+	width:440px;
+	background-color: #85CF25;	
+}
+
+.inner {
+	margin-left:10px;
+}
+
+.card-1 {
+	z-index:1;
+}
+
+.card-2 {
+	position: absolute;
+    left:25px;	
+	z-index=2;
+}
+.card-3 {
+	position: absolute;
+    left:50px;	
+	z-index=3;
+}
+.card-4 {
+	position: absolute;
+    left:75px;	
+	z-index=4;
+}
+.card-5 {
+	position: absolute;
+    left:100px;	
+	z-index=5;
+}
+.card-6 {
+	position: absolute;
+    left:125px;	
+	z-index=6;
+}
+.card-7 {
+	position: absolute;
+    left:150px;	
+	z-index=7;
+}
+.card-8 {
+	position: absolute;
+    left:175px;	
+	z-index=8;
+}
+.card-9 {
+	position: absolute;
+    left:200px;	
+	z-index=9;
+}
+.card-10 {
+	position: absolute;
+    left:225px;	
+	z-index=10;
+}
+.card-11 {
+	position: absolute;
+    left:250px;	
+	z-index=11;
+}
+.card-12 {
+	position: absolute;
+    left:275px;	
+	z-index=12;
+}
+.card-13 {
+	position: absolute;
+    left:300px;	
+	z-index=13;
+}
